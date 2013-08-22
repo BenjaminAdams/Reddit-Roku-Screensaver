@@ -1,0 +1,13 @@
+title=Reddit
+subtitle=View a slideshow of up to 1000 pictures from a subreddit
+mm_icon_focus_hd=pkg:/images/mm_icon_focus_hd.png
+mm_icon_side_hd=pkg:/images/mm_icon_side_hd.png
+mm_icon_focus_sd=pkg:/images/mm_icon_focus_sd.png
+mm_icon_side_sd=pkg:/images/mm_icon_side_sd.png
+splash_screen_hd=pkg:/images/reddit-logo-hd-trans.png
+splash_screen_sd=pkg:/images/reddit-logo-sd-trans.png
+splash_color=#ffffff
+major_version=1
+minor_version=1
+build_version=00002
+
